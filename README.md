@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://siri-karra.vercel.app/](https://siri-karra.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://siri-karra.vercel.app/](https://sirikarra.me)
 
 - 📝 I regularly write articles on [https://kmitra.kmit.in/](https://kmitra.kmit.in/)
 
